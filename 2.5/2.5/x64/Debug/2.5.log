@@ -1,0 +1,3 @@
+﻿  test.cpp
+D:\visualStore\2.5\2.5\test.cpp(38,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+  2.5.vcxproj -> D:\visualStore\2.5\x64\Debug\2.5.exe
